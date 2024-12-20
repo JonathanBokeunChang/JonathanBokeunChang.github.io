@@ -10,3 +10,8 @@ Union County Magnet High School (2023-2027)
 - AP Calculus AB
 - AP Physics
 
+### Projects
+
+[![Watch the demo](https://img.youtube.com/vi/_xkErHY4mxU/0.jpg)](https://www.youtube.com/watch?v=_xkErHY4mxU)
+
+This is a demonstration of my app/website. Click the image above to watch the video!
